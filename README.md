@@ -43,14 +43,14 @@ My career has been shaped by solving complex problems, transforming legacy syste
 
 #### Databases & Caching
 * **Relational:** MySQL, PostgreSQL, SQL Server, SQLite.
-* **Caching & Search:** Redis, Memcached, Elasticsearch.
+* **Caching & Search:** Redis, Memcached, Elasticsearch, Meilisearch.
 
 #### Cloud & DevOps
 * **AWS:** SQS, S3, EC2, ECS (Containers), RDS, Kubernetes, CloudFront.
 * **Automation & CI/CD:** GitLab CI/CD, Jenkins, Ansible, Puppet.
-* **Security & Analysis:** Veracode, Sonarqube, Checkmarx, WAF.
+* **Security & Analysis:** Sonarqube, Veracode, Checkmarx, WAF.
 * **Authentication:** Keycloak.
-* **Virtualization:** WSL (Windows Subsystem for Linux).
+* **Virtualization:** WSL (Windows Subsystem for Linux), Docker, Vagrant and VirtualBox.
 
 #### Frontend, Mobile & Game Development
 * **Web:** HTML, CSS, JavaScript, JQuery, SCSS, ActionScript.
@@ -61,7 +61,7 @@ My career has been shaped by solving complex problems, transforming legacy syste
 * **Web Scraping:** Selenium, IP Rotation, Anti-Captcha Solutions.
 * **Media Processing:** FFMpeg (video), OCR (text recognition).
 * **Documentation:** Confluence, Postman, Swagger.
-* **Artificial Intelligence:** IBM Watson, Google Vision.
+* **Artificial Intelligence:** Google Gemini, Chat GTP, Meta Llama, IBM Watson, Google Vision.
 
 ---
 
@@ -85,7 +85,7 @@ Flames is the result of years of experience building mission-critical systems, n
 ## Why Flames is a Game-Changer
 
 **Run PHP on the Frontend**
-Say goodbye to JavaScript fatigue. Flames executes **PHP 8.3 natively in the browser** using WebAssembly, allowing you to build rich, reactive user interfaces with the language you already love.
+Say goodbye to JavaScript fatigue. Flames executes **PHP natively in the browser** using WebAssembly, allowing you to build rich, reactive user interfaces with the language you already love.
 
 **Extreme Performance**
 Engineered for high-traffic applications, Flames is up to **18x faster than Laravel**. It delivers the speed of a micro-framework without sacrificing the powerful features you need.
