@@ -36,8 +36,8 @@ My career has been shaped by solving complex problems, transforming legacy syste
 
 #### Backend
 * **PHP:** Advanced proficiency in the language and its ecosystems.
-* **PHP Frameworks:** Laravel, Symfony, CakePHP, and Flames.
-* **Other Languages:** C#, Java, Python, Node.js, LuaScript.
+* **PHP Frameworks:** Laravel, Symfony, CakePHP, Zend and Flames.
+* **Other Languages:** C#, JavaScript, LuaScript, Python, Java and C.
 * **APIs:** Development and integration of RESTful and SOAP APIs.
 * **Real-time Communication:** WebSockets with ReactPHP and Sockets.
 
