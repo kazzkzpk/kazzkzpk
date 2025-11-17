@@ -94,5 +94,5 @@ Engineered for high-traffic applications, Flames is up to **18x faster than Lara
 Flames transcends the web. You can build **native desktop apps** for Windows & Linux (via Electron), generate fast **static sites**, and create powerful **console applications**—all from one cohesive framework.
 
 <p align="left">
-  <a href="https://github.com/flamesphp/flames" target="_blank"><img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/flamesphp/framework" target="_blank"><img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logoColor=white" alt="GitHub"/></a>
 </p>
